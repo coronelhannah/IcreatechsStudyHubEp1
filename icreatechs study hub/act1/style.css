@@ -1,0 +1,40 @@
+body {
+    background-image: url(omen.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+h2 {
+    color: white;
+}
+
+ol {
+    color: white;
+}
+ul {
+    color: white;
+}
+a {
+    color: white;
+    text-decoration: solid;
+    text-decoration: underline;
+} 
+table, td, th {
+    color: white;
+    border: 1px solid;
+    text-align: center;
+}
+table {
+    border-collapse: collapse; 
+}
+th, td {
+    padding: 15px;
+}
